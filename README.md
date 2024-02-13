@@ -7,7 +7,7 @@ Projeto para estudos de testes unitários em **Python** com o _framework_ **Pyte
 Clone o projeto
 
 ```bash
-  git clone https://github.com/gusstavocardoso/PythonTestUnit.git
+  git clone https://github.com/gusstavocardoso/PytestTestUnit.git
 ```
 
 Entre no diretório do projeto
